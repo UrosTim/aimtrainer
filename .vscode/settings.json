@@ -1,5 +1,9 @@
 {
     "cSpell.words": [
+        "blit",
+        "calibri",
+        "KEYDOWN",
+        "milisec",
         "MOUSEBUTTONDOWN",
         "pygame",
         "USEREVENT"
